@@ -161,6 +161,20 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Pronouns.page */
+.button-pronouns-page {
+    --button-text: #c71585;
+    --button-background: #000000;
+    --button-border: 1px solid #FFFFFF;
+}
+
+/* Bluesky */
+.button-bluesky {
+    --button-text: #000000;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
+
 /* ArtStation */
 .button.button-artstation {
   color: #ffffff;
